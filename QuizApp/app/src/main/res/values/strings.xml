@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question_01">1.What is the best programming language in the world?</string>
+    <string name="question_02">2.Which is the AI made by Google?</string>
+    <string name="question_03">3.Which is not happended in tech life?</string>
+    <string name="question_04">4.Chinese tech is hard to look for a girlfriend.</string>
+    <string name="question_05">5.Steve Jobs founded Google.</string>
+</resources>
